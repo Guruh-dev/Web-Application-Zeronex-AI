@@ -5,7 +5,7 @@ This is my Web Application for Zeronex AI using React &amp; TypeScript for user 
 
 🚀 **Zeronex AI** is a full-stack web application that leverages **OpenAI's GPT-3.5 Turbo** to deliver intelligent AI-driven solutions. Built with React (frontend) and Flask (backend), it features user authentication, scalable API design, and seamless integration with AI services.
 
-![Demo Screenshot]<!-- Add a screenshot link here later -->
+!Web snippet <!-- Add a screenshot link here later -->
 ![Screenshot 2025-04-19 061806](https://github.com/user-attachments/assets/570dfe18-8642-4c5a-bd65-ef5f9522bca6)
 ![Screenshot 2025-04-19 061819](https://github.com/user-attachments/assets/177bb0a0-d42e-40c7-b573-98d85fab810a)
 ![Screenshot 2025-04-19 061831](https://github.com/user-attachments/assets/029bd3b0-6a75-4cbf-86e8-75885afb891e)
