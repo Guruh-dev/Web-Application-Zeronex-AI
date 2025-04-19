@@ -24,7 +24,7 @@ This is my Web Application for Zeronex AI using React &amp; TypeScript for user 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: React, Axios, Tailwind CSS
+- **Frontend**: React, Axios, Tailwind CSS, Typescript
 - **Backend**: Flask, Flask-SQLAlchemy, Flask-JWT-Extended
 - **Database**: PostgreSQL
 - **AI Services**: OpenAI API
